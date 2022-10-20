@@ -1,0 +1,27 @@
+{
+  "name": "velvet-thunder",
+  "displayName": "Velvet Thunder",
+  "description": "A deep purple atmospheric theme with bursts of colour.",
+  "version": "0.2.0",
+  "publisher": "BuddyDeveloping",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BuddyDeveloping/Velvet-Thunder.git"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Velvet Thunder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Velvet-Thunder-Theme.json"
+      }
+    ]
+  }
+}
