@@ -2,6 +2,12 @@
 
 A [Visual Studio Code](https://code.visualstudio.com/) theme with dark colours, a deep purple atmosphere, and colour highlights.
 
+## Colour Palette
+
+This theme has a range of theme structures depending on the language you use. In saying that, they all follow the basic colour scheme in this colour palette.
+
+![Colour Palette](./colours.png "Scheme")
+
 ## About Me
 
 I have always wanted to customise the [Visual Studio Code](https://code.visualstudio.com/) experience with my personal preference of colours. I have never gotten around to it until now. This is just a theme comprised of my favourite colours and colour combinations.
@@ -15,4 +21,4 @@ I have always wanted to customise the [Visual Studio Code](https://code.visualst
 5. Click Install to install it
 6. From the menu bar click: Code > Preferences > Color Theme > Velvet Thunder
 
-### If there are any suggestions or issues feel free to contact me at buddydeveloping@gmail.com.
+If there are any suggestions or issues feel free to contact me at buddydeveloping@gmail.com.
