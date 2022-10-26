@@ -14,3 +14,5 @@ I have always wanted to customise the [Visual Studio Code](https://code.visualst
 4. Search for "Velvet Thunder"
 5. Click Install to install it
 6. From the menu bar click: Code > Preferences > Color Theme > Velvet Thunder
+
+### If there are any suggestions or issues feel free to contact me at buddydeveloping@gmail.com.

@@ -92,7 +92,7 @@
 		"editorInlayHint.typeForeground": "#b4b4b488",
 		"editorLineNumber.activeForeground": "#ffffff",
 		"editorLineNumber.foreground": "#b4b4b488",
-		"editorLink.activeForeground": "#e4a91e",
+		"editorLink.activeForeground": "#00E2E2",
 		"editorMarkerNavigation.background": "#232629",
 		"editorMarkerNavigationError.background": "#ff5454",
 		"editorMarkerNavigationInfo.background": "#a54aff",
@@ -336,7 +336,6 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -351,6 +350,15 @@
 			],
 			"settings": {
 				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Control Keyword",
+			"scope": [
+				"keyword.control"
+			],
+			"settings": {
+				"foreground": "#A54AFF"
 			}
 		},
 		{
@@ -577,7 +585,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#41b857"
+				"foreground": "#ff5454"
 			}
 		},
 		{
@@ -586,7 +594,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#fbbb23"
 			}
 		},
 		{
@@ -595,7 +603,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#00E2E2"
 			}
 		},
 		{
@@ -604,7 +612,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#A54AFF"
 			}
 		},
 		{
@@ -626,7 +634,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#00E2E2"
 			}
 		},
 		{
