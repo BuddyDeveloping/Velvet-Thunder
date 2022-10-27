@@ -2,7 +2,11 @@
 
 All notable changes to the "Velvet Thunder" extension will be documented in this file.
 
-## "0.2.0
+## "0.2.1"
+
+- New logo
+
+## "0.2.0"
 
 - Complete makeover!
 - Added repository
