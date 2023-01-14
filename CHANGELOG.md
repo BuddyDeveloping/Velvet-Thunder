@@ -2,6 +2,11 @@
 
 All notable changes to the "Velvet Thunder" extension will be documented in this file.
 
+## "0.2.2"
+
+- New logo. Again... But better?
+- Fixed dropdown colours in settings
+
 ## "0.2.1"
 
 - New logo

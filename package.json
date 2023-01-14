@@ -2,7 +2,7 @@
   "name": "velvet-thunder",
   "displayName": "Velvet Thunder",
   "description": "A deep purple atmospheric theme with bursts of colour.",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "publisher": "BuddyDeveloping",
   "engines": {
     "vscode": "^1.72.0"
